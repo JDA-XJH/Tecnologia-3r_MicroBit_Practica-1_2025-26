@@ -15,7 +15,7 @@ Aquest dipòsit es pot afegir com una **extensió** a MakeCode.
 Per editar aquest repositori a MakeCode.
 
 * obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* fes clic a ** Importa** i després a ** Importa URL**
+* fes clic a **Importa** i després a **Importa URL**
 * enganxa **https://github.com/jda-xjh/tecnologia-3r_microbit_practica-1_2025-26** i clica importar
 
 #### Metadades (utilitzades per a la cerca, renderització)
